@@ -21,8 +21,8 @@
 <h2 align="left">Status e Habilidades</h2>
   
 <div width="100%">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellexvr&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellexvr&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline-block">
