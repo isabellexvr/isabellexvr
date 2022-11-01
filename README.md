@@ -53,5 +53,8 @@
 <a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
+  
+  #
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
                                                                                                   
 </div>
