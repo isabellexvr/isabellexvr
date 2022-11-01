@@ -1,28 +1,31 @@
 <div align="center">
   
-  <h1> Olá! Seja bem-vindx ao meu repositório! 🌱</h1>
+  <h1>
+    Olá! Seja bem-vindx ao meu repositório! 🌱
+  </h1>
   
-  <div align="left">
-    <ul>
-      <li>
-        🔭 Atualmente, estou num bootcamp de desenvolvimento full-stack, aprendendo a parte de back-end. Concomitante a ele, faço projetinhos pessoais.
-      </li>
-      <li>
-         😄 Meus pronomes são ela/dela... até que algo flui dentro de mim.
-      </li>
-      <li>
-         ⚡ Um fato aleatório sobre mim é que talvez eu seja um alienígena.
-      </li>
-    </ul>
-      <img heigth="220px" width="220px" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
+  <p>
+    Aqui você encontrará de projetos apressados da vida de uma estudante de web-development à outros projetos apressados, que provavelmente fazem parte da minha vida de estudante também, mas que eu não gosto muito de assumir.
+  </p>
+  
+  <h2 align="left">Coisas sobre mim</h2>
+
+  
+  <div style="display: flex">
+    <img align="center" height="250em" src="./rounded-in-photoretrica.png"/>
+    <img align="center" height="250em" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
   </div>
+ 
+  <br>
+
+<h2 align="left">Status e Habilidades</h2>
   
 <div width="100%">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=isabellexvr&show_icons=true&theme=radical"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
 </div>
 
-<div style="display: flex">
+<div style="display: inline-block">
   <br/>
   <img alt="html5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,8 +36,7 @@
 
 
 #
-<br/>
-<h2>📫 Encontre-me! </h2>
+<h2 align="left">📫 Encontre-me! </h2>
 
 <a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
