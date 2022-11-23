@@ -12,7 +12,7 @@
 
   
   <div style="display: flex">
-    <img align="center" height="250em" src="./rounded-in-photoretrica.png"/>
+    <img align="center" height="250em" src="./Texto do seu parágrafo.png"/>
     <img align="center" height="250em" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
   </div>
  
@@ -36,21 +36,22 @@
 
 
 #
+<br/>
 <h2 align="left">📫 Encontre-me! </h2>
 
 <a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
+<a href="https://instagram.com/isabellexvr">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
+<a href="https://www.linkedin.com/in/isabellexvr/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
+<a href="https://twitter.com/isabellexvr">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
   
