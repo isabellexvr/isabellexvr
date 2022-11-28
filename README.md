@@ -5,7 +5,7 @@
   </h1>
   
   <p>
-    Aqui você encontrará de projetos apressados da vida de uma estudante de web-development à outros projetos apressados, que provavelmente fazem parte da minha vida de estudante também, mas que eu não gosto muito de assumir.
+    Aqui você encontrará de projetos apressados da vida de uma estudante de web-development à outros projetos apressados, que provavelmente fazem parte da minha vida de estudante também, mas que eu não gosto muito de assumir que fazem.
   </p>
   
   <h2 align="left">Coisas sobre mim</h2>
