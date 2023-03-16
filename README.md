@@ -1,14 +1,14 @@
 <div align="center">
   
   <h1>
-    Olá! Seja bem-vindx ao meu repositório! 🌱
+    Hello World! Welcome to my Repository!
   </h1>
   
   <p>
-    Aqui você encontrará de projetos apressados da vida de uma estudante de web-development à outros projetos apressados, que provavelmente fazem parte da minha vida de estudante também, mas que eu não gosto muito de assumir que fazem.
+    I'm currently finishing a 9 month coding bootcamp about Full Stack Web Development!
   </p>
   
-  <h2 align="left">Coisas sobre mim</h2>
+  <h2 align="left">About Me</h2>
 
   
   <div style="display: flex">
