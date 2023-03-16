@@ -21,7 +21,7 @@
   </div>
   
   <div align="left">
-  <h3>FRONT END SKILLS</h3>
+  <h3>Front End Skills</h3>
     <img alt="html5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="react" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -30,7 +30,7 @@
   </div>
   
   <div align="left">
-  <h3>BACK END SKILLS</h3>
+  <h3>Back End Skills</h3>
     <img alt="nodejs" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="express" align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img alt="mongodb" align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -40,7 +40,7 @@
   </div>
 
   <div align="left">
-  <h3>CURRENTLY LEARNING SKILLS</h3>
+  <h3>Currently Learning</h3>
     <img alt="aws" align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img alt="docker" align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
