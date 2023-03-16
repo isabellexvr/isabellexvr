@@ -4,15 +4,11 @@
     Hello World! Welcome to my Repository!
   </h1>
   
-  <p>
-    I'm currently finishing a 9 month coding bootcamp about Full Stack Web Development!
-  </p>
-  
   <h2 align="left">About Me</h2>
 
   
   <div style="display: flex">
-    <img align="center" height="250em" src="./Texto do seu parágrafo.png"/>
+    <img align="center" height="250em" src="./aboutMe.png"/>
     <img align="center" height="250em" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
   </div>
  
@@ -50,8 +46,6 @@
   <div>
   <h3>CURRENTLY LEARNING SKILLS</h3>
     <img alt="aws" align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img alt="java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt="springboot" align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="docker" align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
   
