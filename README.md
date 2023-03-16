@@ -1,14 +1,10 @@
 <div align="center">
   
-  <h1>
-    Hello World! Welcome to my Repository!
-  </h1>
-  
   <h2 align="left">About Me</h2>
 
   
   <div style="display: flex">
-    <img align="center" height="250em" src="./aboutMe.png"/>
+    <img align="center" height="250em" src="./image.png"/>
     <img align="center" height="250em" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
   </div>
  
@@ -18,13 +14,13 @@
 
 <div style="display: inline-block">
   <br/>
-  <div>
+  <div align="left">
     <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img alt="typescript" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     
   </div>
   
-  <div>
+  <div align="left">
   <h3>FRONT END SKILLS</h3>
     <img alt="html5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,7 +29,7 @@
     <img alt="router" align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   </div>
   
-  <div>
+  <div align="left">
   <h3>BACK END SKILLS</h3>
     <img alt="nodejs" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="express" align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
@@ -43,7 +39,7 @@
     <img alt="jest" align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
   </div>
 
-  <div>
+  <div align="left">
   <h3>CURRENTLY LEARNING SKILLS</h3>
     <img alt="aws" align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img alt="docker" align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -59,7 +55,7 @@
 
 #
 <br/>
-<h2 align="left">📫 Encontre-me! </h2>
+<h2 align="left">📫 Find Me! </h2>
 
 <a href="mailto:isabellexavier59@gmail.com?Subject=Ola%2C%20estive%20em%20seu%20repositorio%20GitHub%20e%20quero%20contacta-la%21">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
