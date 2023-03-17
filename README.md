@@ -1,19 +1,9 @@
-<div align="center">
-  
-  <h2 align="left">About Me</h2>
+## Hi World! Welcome to my Repository!
+<img align="right" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
 
-  
-  <div style="display: flex">
-    <img align="center" height="250em" src="./image.png"/>
-    <img align="center" height="250em" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
-  </div>
- 
-  <br>
-
-<h2 align="left">Skills and Status</h2>
-
+My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Science Academic. I took [Driven Education](https://www.driven.com.br/) coding bootcamp for 9 months, and I'm currently finishing it.
+## My Skills
 <div style="display: inline-block">
-  <br/>
   <div align="left">
     <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img alt="typescript" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -21,7 +11,7 @@
   </div>
   
   <div align="left">
-  <h3>Front End Skills</h3>
+  <h3>Front End</h3>
     <img alt="html5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="react" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -30,7 +20,7 @@
   </div>
   
   <div align="left">
-  <h3>Back End Skills</h3>
+  <h3>Back End</h3>
     <img alt="nodejs" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="express" align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img alt="mongodb" align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -46,14 +36,16 @@
   </div>
   
 </div>
+  
   <br/>
+  
+## GitHub Stats
+
 <div width="100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellexvr&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
 </div>
 
-
-#
 <br/>
 <h2 align="left">📫 Find Me! </h2>
 
