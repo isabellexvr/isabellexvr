@@ -21,9 +21,8 @@ My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Scienc
     <img alt="mongodb" align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="postgresql" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="prisma" align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+    <img alt="nest" align="center" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img alt="redis" align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-    
-    
   </div>
   
    <div align="left">
@@ -38,7 +37,6 @@ My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Scienc
   
   <div align="left">
   <h3>Currently Learning</h3>
-    <img alt="nest" align="center" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img alt="socket.io" align="center" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
     <img alt="python" align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </div>
