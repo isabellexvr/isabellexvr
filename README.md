@@ -1,7 +1,7 @@
 ## Hi World! Welcome to my Repository!
 <img align="right" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
 
-My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Science Academic. I took [Driven Education](https://www.driven.com.br/) coding bootcamp for 9 months, and I'm currently finishing it.
+My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Science Academic.
 ## My Tech Stack
 <div style="display: inline-block">
   <div align="left">
