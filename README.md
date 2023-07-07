@@ -1,17 +1,18 @@
-## Hi World! Welcome to my Repository!
-<img align="right" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
+## Olá, mundo!
 
-My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Science Academic.
-## My Tech Stack
+Me chamo Isabelle, sou Desenvolvedora Web Full-stack, Universitária em Ciência da Computação, amante da tecnologia e uma eterna aprendiz.
+## Minha Stack de Tecnologias
 <div style="display: inline-block">
   <div align="left">
   <h3>Front End</h3>
+    <img alt="figma" align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
     <img alt="html5" align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="sass" align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
     <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img alt="redux" align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="react" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="styled-components" align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    <img alt="router" align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+    <img alt="next-js" align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   </div>
   
   <div align="left">
@@ -26,7 +27,7 @@ My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Scienc
   </div>
   
    <div align="left">
-     <h3>Tools</h3>
+     <h3>Geral</h3>
      <img alt="jwt" align="center" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
      <img alt="jest" align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
      <img alt="aws" align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -37,8 +38,9 @@ My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Scienc
   
   <div align="left">
   <h3>Currently Learning</h3>
-    <img alt="socket.io" align="center" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+    <img alt="c" align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="python" align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img alt="django" align="center" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   </div>
   
 </div>
@@ -53,7 +55,7 @@ My name is Isabelle Xavier, I'm a Full Stack Web Developer and a Computer Scienc
 </div>
 
 <br/>
-<h2 align="left">📫 Find Me! </h2>
+<h2 align="left">📫 Encontre-me! </h2>
 
 <a href="https://www.linkedin.com/in/isabellexvr/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
