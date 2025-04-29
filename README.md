@@ -1,5 +1,5 @@
 <p align="left"> 
-  Atualmente, estudo <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Alagoas</strong> e estagio como <strong>desenvolvedora web full-stack</strong> e <strong>suporte técnico</strong>.
+  Atualmente, estudo <strong>Ciência da Computação</strong> na <strong>Universidade Federal de Alagoas</strong> e estagio como <strong>desenvolvedora web full-stack</strong> e <strong>suporte técnico na SEDUC-AL</strong>.
 </p>
 
 <h2></h2>
@@ -34,6 +34,9 @@
   <p>🧠 Conheço/Tenho experiência:</p>
   <div style="display: inline-block">
     <img alt="React" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="Laravel" align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img alt="Tailwind CSS" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="IntelliJ IDEA" align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img alt="Bootstrap" align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="Jest" align="center" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img alt="express" align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
@@ -47,9 +50,6 @@
   <h4></h4>
   <p>📘 Estou aprendendo e me aperfeiçoando:</p>
   <div style="display: inline-block">
-    <img alt="Laravel" align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-    <img alt="Tailwind CSS" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img alt="IntelliJ IDEA" align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img alt="Heroku" align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img alt="AWS" align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </div>
